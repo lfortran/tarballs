@@ -1,0 +1,11 @@
+{
+    "dev": [
+        {
+            "created": "2019-05-10 21:44:08.793350",
+            "lfortran_commit_sha": "9f9d491c12110f48c01a51374fe7b27fb173562e",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.0+git9f9d491.tar.gz",
+            "version": "0.0+git9f9d491"
+        }
+    ],
+    "release": []
+}
