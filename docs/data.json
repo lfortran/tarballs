@@ -1,23 +1,156 @@
 {
     "dev": [
         {
-            "created": "2019-05-10 21:44:08.793350",
-            "lfortran_commit_sha": "9f9d491c12110f48c01a51374fe7b27fb173562e",
-            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.0+git9f9d491.tar.gz",
-            "version": "0.0+git9f9d491"
+            "created": "2022-10-17 21:41:26.261576",
+            "lfortran_commit_sha": "371d2e048",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.17.0-2-g371d2e048.tar.gz",
+            "version": "0.17.0-2-g371d2e048"
         },
         {
-            "created": "2019-05-11 02:13:12.441516",
-            "lfortran_commit_sha": "6eca514a4d4296d2d34ad511f48a52eaef7dd391",
-            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.0+git6eca514.tar.gz",
-            "version": "0.0+git6eca514"
-        },
-        {
-            "created": "2019-05-11 02:44:14.464804",
-            "lfortran_commit_sha": "5d452347f84ae87c8ef8facaf9a366f301109e45",
-            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.0+git5d45234.tar.gz",
-            "version": "0.0+git5d45234"
+            "created": "2022-10-17 21:59:04.892661",
+            "lfortran_commit_sha": "d70078ff8",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.17.0-4-gd70078ff8.tar.gz",
+            "version": "0.17.0-4-gd70078ff8"
         }
     ],
-    "release": []
+    "release": [
+        {
+            "created": "2019-05-11 03:08:04.846759",
+            "lfortran_commit_sha": "c6ae983a4fbc59b6a0b030c7cf7586b1d03140a1",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.1.11.tar.gz",
+            "version": "0.1.11"
+        },
+        {
+            "created": "2019-05-16 04:44:46.351829",
+            "lfortran_commit_sha": "4c057177cdea8ddf552284a41f687cc752f7e7c5",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.1.12.tar.gz",
+            "version": "0.1.12"
+        },
+        {
+            "created": "2019-05-17 02:17:23.870575",
+            "lfortran_commit_sha": "3391bc13eced7b2357f4cbe5d305191327a4816f",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.1.13.tar.gz",
+            "version": "0.1.13"
+        },
+        {
+            "created": "2019-05-17 03:04:52.180322",
+            "lfortran_commit_sha": "1d141e3750ab4032c7a4d785d9865493f438f0ef",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.1.14.tar.gz",
+            "version": "0.1.14"
+        },
+        {
+            "created": "2019-07-26 16:48:17.812985",
+            "lfortran_commit_sha": "ce733adc36da5c3b71b272cf2443d89b3a4bb29f",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.1.15.tar.gz",
+            "version": "0.1.15"
+        },
+        {
+            "created": "2020-05-30 18:29:47.067554",
+            "lfortran_commit_sha": "1415dd3e599710cd1105c2dcf3da6f781eaedaf1",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.2.0.tar.gz",
+            "version": "0.2.0"
+        },
+        {
+            "created": "2020-07-31 19:38:38.314442",
+            "lfortran_commit_sha": "8b54009c0f340e839ab6c90c0cbc44944d594731",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.3.0.tar.gz",
+            "version": "0.3.0"
+        },
+        {
+            "created": "2020-08-12 14:15:10.555184",
+            "lfortran_commit_sha": "5039fa5561d568addab7a025e37935aa276aeb2a",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.4.0.tar.gz",
+            "version": "0.4.0"
+        },
+        {
+            "created": "2020-08-22 22:09:01.535605",
+            "lfortran_commit_sha": "5cb64b0012f78dd5ca95b8610e5cb3981f15e177",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.5.0.tar.gz",
+            "version": "0.5.0"
+        },
+        {
+            "created": "2020-08-25 17:18:41.679888",
+            "lfortran_commit_sha": "e3795ea1df8a13c2e3d91eef2995ae1eceaf43e4",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.6.0.tar.gz",
+            "version": "0.6.0"
+        },
+        {
+            "created": "2020-08-28 01:17:56.988581",
+            "lfortran_commit_sha": "49135f9f89d127305a5b148e610d8105953507aa",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.7.0.tar.gz",
+            "version": "0.7.0"
+        },
+        {
+            "created": "2020-09-17 09:02:51.803343",
+            "lfortran_commit_sha": "3a14a7f384a384a7c7d507909457e3cb99778c01",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.8.0.tar.gz",
+            "version": "0.8.0"
+        },
+        {
+            "created": "2020-09-17 23:19:59.741418",
+            "lfortran_commit_sha": "a512628fa436ed786ebe0c116513a46e2276fd31",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.8.1.tar.gz",
+            "version": "0.8.1"
+        },
+        {
+            "created": "2020-10-09 02:16:14.750316",
+            "lfortran_commit_sha": "bb8c944b0dd77fa43d0502ddd7fef6a46b4ac49d",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.9.0.tar.gz",
+            "version": "0.9.0"
+        },
+        {
+            "created": "2021-03-07 20:11:38.919991",
+            "lfortran_commit_sha": "660acacb4dc7c16e4b27d8785540cf22ebbbbffc",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.10.0.tar.gz",
+            "version": "0.10.0"
+        },
+        {
+            "created": "2021-07-14 00:48:10.807625",
+            "lfortran_commit_sha": "cb7fb60e7c40a5aef02491d4ab1c606f649ccb75",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.11.0.tar.gz",
+            "version": "0.11.0"
+        },
+        {
+            "created": "2021-08-16 03:01:29.655655",
+            "lfortran_commit_sha": "214c16e076b324ee4ea1521fb460036907610c82",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.12.0.tar.gz",
+            "version": "0.12.0"
+        },
+        {
+            "created": "2021-09-21 05:16:38.342651",
+            "lfortran_commit_sha": "4126a143c9048d1c96ac7cddf185edb76ea1e0ac",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.13.0.tar.gz",
+            "version": "0.13.0"
+        },
+        {
+            "created": "2021-09-22 06:31:20.528523",
+            "lfortran_commit_sha": "638907d916741f9c099207cff832cb00b951c768",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.13.1.tar.gz",
+            "version": "0.13.1"
+        },
+        {
+            "created": "2021-09-23 06:23:18.427052",
+            "lfortran_commit_sha": "9bd7c6b76cb607b29be8d46152ebbc78b622e3e2",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.14.0.tar.gz",
+            "version": "0.14.0"
+        },
+        {
+            "created": "2022-05-27 20:12:19.575357",
+            "lfortran_commit_sha": "fa98414e96c3fd9b5612f5652ad78e8a328cc6e7",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.15.0.tar.gz",
+            "version": "0.15.0"
+        },
+        {
+            "created": "2022-07-11 22:10:24.309788",
+            "lfortran_commit_sha": "3710774260524811b627e0f40c442defcc938247",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.16.0.tar.gz",
+            "version": "0.16.0"
+        },
+        {
+            "created": "2022-10-17 19:16:55.430953",
+            "lfortran_commit_sha": "4c01c542c",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.17.0.tar.gz",
+            "version": "0.17.0"
+        }
+    ]
 }
