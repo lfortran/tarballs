@@ -169,6 +169,12 @@
             "lfortran_commit_sha": "4c01c542c",
             "url": "https://lfortran.github.io/tarballs/release/lfortran-0.17.0.tar.gz",
             "version": "0.17.0"
+        },
+        {
+            "created": "2022-10-18 22:02:22.121725",
+            "lfortran_commit_sha": "88cf0b02d",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.18.0.tar.gz",
+            "version": "0.18.0"
         }
     ]
 }
