@@ -701,6 +701,12 @@
             "lfortran_commit_sha": "db1927104",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.18.0-335-gdb1927104.tar.gz",
             "version": "0.18.0-335-gdb1927104"
+        },
+        {
+            "created": "2022-12-29 02:58:26.780363",
+            "lfortran_commit_sha": "76f23754c",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.18.0-339-g76f23754c.tar.gz",
+            "version": "0.18.0-339-g76f23754c"
         }
     ],
     "release": [
