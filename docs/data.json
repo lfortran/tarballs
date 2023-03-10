@@ -1565,6 +1565,12 @@
             "lfortran_commit_sha": "e87adb827",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.18.0-852-ge87adb827.tar.gz",
             "version": "0.18.0-852-ge87adb827"
+        },
+        {
+            "created": "2023-03-10 16:53:53.644571",
+            "lfortran_commit_sha": "bd3125fce",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.18.0-853-gbd3125fce.tar.gz",
+            "version": "0.18.0-853-gbd3125fce"
         }
     ],
     "release": [
