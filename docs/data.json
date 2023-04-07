@@ -1877,6 +1877,12 @@
             "lfortran_commit_sha": "63b210d91",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.18.0-1056-g63b210d91.tar.gz",
             "version": "0.18.0-1056-g63b210d91"
+        },
+        {
+            "created": "2023-04-07 20:02:28.418904",
+            "lfortran_commit_sha": "8d9026426",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.18.0-1060-g8d9026426.tar.gz",
+            "version": "0.18.0-1060-g8d9026426"
         }
     ],
     "release": [
