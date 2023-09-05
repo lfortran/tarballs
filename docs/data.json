@@ -4343,6 +4343,12 @@
             "lfortran_commit_sha": "70b01291e",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.20.2-1-g70b01291e.tar.gz",
             "version": "0.20.2-1-g70b01291e"
+        },
+        {
+            "created": "2023-09-05 18:59:24.636116",
+            "lfortran_commit_sha": "dc3439dee",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.20.2-3-gdc3439dee.tar.gz",
+            "version": "0.20.2-3-gdc3439dee"
         }
     ],
     "release": [
