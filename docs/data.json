@@ -4295,6 +4295,12 @@
             "lfortran_commit_sha": "ac42c2053",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.20.1-14-gac42c2053.tar.gz",
             "version": "0.20.1-14-gac42c2053"
+        },
+        {
+            "created": "2023-09-05 02:13:16.605026",
+            "lfortran_commit_sha": "43dfd2bad",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.20.1-17-g43dfd2bad.tar.gz",
+            "version": "0.20.1-17-g43dfd2bad"
         }
     ],
     "release": [
