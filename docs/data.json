@@ -4679,6 +4679,12 @@
             "lfortran_commit_sha": "ea6995cff",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.20.3-226-gea6995cff.tar.gz",
             "version": "0.20.3-226-gea6995cff"
+        },
+        {
+            "created": "2023-09-21 11:20:06.136284",
+            "lfortran_commit_sha": "a6025aee6",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.20.3-230-ga6025aee6.tar.gz",
+            "version": "0.20.3-230-ga6025aee6"
         }
     ],
     "release": [
