@@ -4871,6 +4871,12 @@
             "lfortran_commit_sha": "bdbd326af",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.20.3-360-gbdbd326af.tar.gz",
             "version": "0.20.3-360-gbdbd326af"
+        },
+        {
+            "created": "2023-09-29 18:42:02.837016",
+            "lfortran_commit_sha": "dab282c4f",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.20.3-370-gdab282c4f.tar.gz",
+            "version": "0.20.3-370-gdab282c4f"
         }
     ],
     "release": [
