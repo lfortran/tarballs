@@ -5063,6 +5063,12 @@
             "lfortran_commit_sha": "1b3204f3b",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.21.5-8-g1b3204f3b.tar.gz",
             "version": "0.21.5-8-g1b3204f3b"
+        },
+        {
+            "created": "2023-10-12 05:48:01.022319",
+            "lfortran_commit_sha": "2e08f2cc4",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.21.5-11-g2e08f2cc4.tar.gz",
+            "version": "0.21.5-11-g2e08f2cc4"
         }
     ],
     "release": [
