@@ -5333,6 +5333,12 @@
             "lfortran_commit_sha": "2b99cd9e6",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.23.0-46-g2b99cd9e6.tar.gz",
             "version": "0.23.0-46-g2b99cd9e6"
+        },
+        {
+            "created": "2023-10-22 03:51:37.693596",
+            "lfortran_commit_sha": "6ce667b01",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.23.0-51-g6ce667b01.tar.gz",
+            "version": "0.23.0-51-g6ce667b01"
         }
     ],
     "release": [
