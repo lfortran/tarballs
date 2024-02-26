@@ -7421,6 +7421,12 @@
             "lfortran_commit_sha": "4f367676f",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.33.1-481-g4f367676f.tar.gz",
             "version": "0.33.1-481-g4f367676f"
+        },
+        {
+            "created": "2024-02-26 17:19:18.508462",
+            "lfortran_commit_sha": "fc9295caf",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.33.1-486-gfc9295caf.tar.gz",
+            "version": "0.33.1-486-gfc9295caf"
         }
     ],
     "release": [
