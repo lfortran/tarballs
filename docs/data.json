@@ -7643,6 +7643,12 @@
             "lfortran_commit_sha": "343feeda4",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.33.1-651-g343feeda4.tar.gz",
             "version": "0.33.1-651-g343feeda4"
+        },
+        {
+            "created": "2024-03-08 17:07:44.725381",
+            "lfortran_commit_sha": "bc5168988",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.33.1-654-gbc5168988.tar.gz",
+            "version": "0.33.1-654-gbc5168988"
         }
     ],
     "release": [
