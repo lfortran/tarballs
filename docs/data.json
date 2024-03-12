@@ -7745,6 +7745,12 @@
             "lfortran_commit_sha": "c486add04",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.33.1-714-gc486add04.tar.gz",
             "version": "0.33.1-714-gc486add04"
+        },
+        {
+            "created": "2024-03-12 21:18:44.712312",
+            "lfortran_commit_sha": "c1e8cca17",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.33.1-719-gc1e8cca17.tar.gz",
+            "version": "0.33.1-719-gc1e8cca17"
         }
     ],
     "release": [
