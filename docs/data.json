@@ -8075,6 +8075,12 @@
             "lfortran_commit_sha": "d30200c61",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.34.0-88-gd30200c61.tar.gz",
             "version": "0.34.0-88-gd30200c61"
+        },
+        {
+            "created": "2024-04-01 11:26:34.588336",
+            "lfortran_commit_sha": "e05194afc",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.34.0-95-ge05194afc.tar.gz",
+            "version": "0.34.0-95-ge05194afc"
         }
     ],
     "release": [
