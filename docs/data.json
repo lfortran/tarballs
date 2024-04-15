@@ -8327,6 +8327,12 @@
             "lfortran_commit_sha": "8b20bf8b8",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.35.0-1-g8b20bf8b8.tar.gz",
             "version": "0.35.0-1-g8b20bf8b8"
+        },
+        {
+            "created": "2024-04-15 21:57:40.924076",
+            "lfortran_commit_sha": "734c7e74e",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.35.0-2-g734c7e74e.tar.gz",
+            "version": "0.35.0-2-g734c7e74e"
         }
     ],
     "release": [
