@@ -9857,6 +9857,12 @@
             "lfortran_commit_sha": "bdc021076",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.38.0-30-gbdc021076.tar.gz",
             "version": "0.38.0-30-gbdc021076"
+        },
+        {
+            "created": "2024-07-12 04:41:27.790007",
+            "lfortran_commit_sha": "15095149d",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.38.0-38-g15095149d.tar.gz",
+            "version": "0.38.0-38-g15095149d"
         }
     ],
     "release": [
