@@ -10199,6 +10199,12 @@
             "lfortran_commit_sha": "cdf5077a3",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.39.0-22-gcdf5077a3.tar.gz",
             "version": "0.39.0-22-gcdf5077a3"
+        },
+        {
+            "created": "2024-08-17 18:15:25.360006",
+            "lfortran_commit_sha": "aa854669e",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.39.0-26-gaa854669e.tar.gz",
+            "version": "0.39.0-26-gaa854669e"
         }
     ],
     "release": [
