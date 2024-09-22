@@ -10595,6 +10595,12 @@
             "lfortran_commit_sha": "7098c949e",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.40.0-156-g7098c949e.tar.gz",
             "version": "0.40.0-156-g7098c949e"
+        },
+        {
+            "created": "2024-09-22 06:57:43.969323",
+            "lfortran_commit_sha": "98ed5de00",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.40.0-160-g98ed5de00.tar.gz",
+            "version": "0.40.0-160-g98ed5de00"
         }
     ],
     "release": [
