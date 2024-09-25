@@ -10673,6 +10673,12 @@
             "lfortran_commit_sha": "add3eb323",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.40.0-206-gadd3eb323.tar.gz",
             "version": "0.40.0-206-gadd3eb323"
+        },
+        {
+            "created": "2024-09-25 06:01:58.928462",
+            "lfortran_commit_sha": "2f673a642",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.40.0-209-g2f673a642.tar.gz",
+            "version": "0.40.0-209-g2f673a642"
         }
     ],
     "release": [
