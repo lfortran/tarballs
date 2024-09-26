@@ -10709,6 +10709,12 @@
             "lfortran_commit_sha": "eecfb1691",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.40.0-228-geecfb1691.tar.gz",
             "version": "0.40.0-228-geecfb1691"
+        },
+        {
+            "created": "2024-09-26 19:46:58.009147",
+            "lfortran_commit_sha": "d66811350",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.40.0-232-gd66811350.tar.gz",
+            "version": "0.40.0-232-gd66811350"
         }
     ],
     "release": [
