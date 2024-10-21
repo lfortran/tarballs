@@ -11153,6 +11153,12 @@
             "lfortran_commit_sha": "ec2a20153",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.41.0-61-gec2a20153.tar.gz",
             "version": "0.41.0-61-gec2a20153"
+        },
+        {
+            "created": "2024-10-21 17:12:35.760256",
+            "lfortran_commit_sha": "5086ee42f",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.41.0-62-g5086ee42f.tar.gz",
+            "version": "0.41.0-62-g5086ee42f"
         }
     ],
     "release": [
