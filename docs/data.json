@@ -11141,6 +11141,12 @@
             "lfortran_commit_sha": "a90bab23e",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.41.0-43-ga90bab23e.tar.gz",
             "version": "0.41.0-43-ga90bab23e"
+        },
+        {
+            "created": "2024-10-21 15:33:15.920326",
+            "lfortran_commit_sha": "219a04f1b",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.41.0-46-g219a04f1b.tar.gz",
+            "version": "0.41.0-46-g219a04f1b"
         }
     ],
     "release": [
