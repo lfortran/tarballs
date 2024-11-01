@@ -11435,6 +11435,12 @@
             "lfortran_commit_sha": "edb225517",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.41.0-172-gedb225517.tar.gz",
             "version": "0.41.0-172-gedb225517"
+        },
+        {
+            "created": "2024-11-01 05:34:36.580206",
+            "lfortran_commit_sha": "8f7a93466",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.41.0-173-g8f7a93466.tar.gz",
+            "version": "0.41.0-173-g8f7a93466"
         }
     ],
     "release": [
