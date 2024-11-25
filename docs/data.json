@@ -12215,6 +12215,12 @@
             "lfortran_commit_sha": "c00fdefa1",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.42.0-168-gc00fdefa1.tar.gz",
             "version": "0.42.0-168-gc00fdefa1"
+        },
+        {
+            "created": "2024-11-25 18:21:31.822634",
+            "lfortran_commit_sha": "d60a678c5",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.42.0-170-gd60a678c5.tar.gz",
+            "version": "0.42.0-170-gd60a678c5"
         }
     ],
     "release": [
