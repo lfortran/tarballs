@@ -13241,6 +13241,12 @@
             "lfortran_commit_sha": "7cadd2464",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.42.0-751-g7cadd2464.tar.gz",
             "version": "0.42.0-751-g7cadd2464"
+        },
+        {
+            "created": "2024-12-25 17:10:21.301559",
+            "lfortran_commit_sha": "3e4fa188e",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.42.0-755-g3e4fa188e.tar.gz",
+            "version": "0.42.0-755-g3e4fa188e"
         }
     ],
     "release": [
