@@ -13445,6 +13445,12 @@
             "lfortran_commit_sha": "da3fb95be",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.43.0-3-gda3fb95be.tar.gz",
             "version": "0.43.0-3-gda3fb95be"
+        },
+        {
+            "created": "2025-01-02 14:30:20.586023",
+            "lfortran_commit_sha": "da3fb95be",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.43.0-3-gda3fb95be.tar.gz",
+            "version": "0.43.0-3-gda3fb95be"
         }
     ],
     "release": [
