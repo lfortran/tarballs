@@ -13661,6 +13661,12 @@
             "lfortran_commit_sha": "8dc24c205",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.43.0-104-g8dc24c205.tar.gz",
             "version": "0.43.0-104-g8dc24c205"
+        },
+        {
+            "created": "2025-01-13 20:34:03.751627",
+            "lfortran_commit_sha": "aa8a4f676",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.43.0-105-gaa8a4f676.tar.gz",
+            "version": "0.43.0-105-gaa8a4f676"
         }
     ],
     "release": [
