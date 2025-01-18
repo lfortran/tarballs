@@ -13823,6 +13823,12 @@
             "lfortran_commit_sha": "461cfa072",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.44.0-44-g461cfa072.tar.gz",
             "version": "0.44.0-44-g461cfa072"
+        },
+        {
+            "created": "2025-01-18 09:45:27.696149",
+            "lfortran_commit_sha": "b83b0f4ba",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.44.0-48-gb83b0f4ba.tar.gz",
+            "version": "0.44.0-48-gb83b0f4ba"
         }
     ],
     "release": [
