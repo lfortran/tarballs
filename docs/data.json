@@ -15161,6 +15161,12 @@
             "lfortran_commit_sha": "a0dab1817",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.46.0-80-ga0dab1817.tar.gz",
             "version": "0.46.0-80-ga0dab1817"
+        },
+        {
+            "created": "2025-03-07 01:21:51.117254",
+            "lfortran_commit_sha": "1d6dbe9a5",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.47.0.tar.gz",
+            "version": "0.47.0"
         }
     ],
     "release": [
