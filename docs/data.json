@@ -15209,6 +15209,12 @@
             "lfortran_commit_sha": "cfd1fb450",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.47.0-25-gcfd1fb450.tar.gz",
             "version": "0.47.0-25-gcfd1fb450"
+        },
+        {
+            "created": "2025-03-07 17:11:01.109627",
+            "lfortran_commit_sha": "c97ce0e92",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.47.0-30-gc97ce0e92.tar.gz",
+            "version": "0.47.0-30-gc97ce0e92"
         }
     ],
     "release": [
