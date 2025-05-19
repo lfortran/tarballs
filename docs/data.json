@@ -17333,6 +17333,12 @@
             "lfortran_commit_sha": "545eacf86",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.52.0-266-g545eacf86.tar.gz",
             "version": "0.52.0-266-g545eacf86"
+        },
+        {
+            "created": "2025-05-19 20:51:00.690389",
+            "lfortran_commit_sha": "19f158346",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.52.0-268-g19f158346.tar.gz",
+            "version": "0.52.0-268-g19f158346"
         }
     ],
     "release": [
