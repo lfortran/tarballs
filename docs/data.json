@@ -17609,6 +17609,12 @@
             "lfortran_commit_sha": "6feda5094",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.52.0-412-g6feda5094.tar.gz",
             "version": "0.52.0-412-g6feda5094"
+        },
+        {
+            "created": "2025-05-29 17:30:58.343016",
+            "lfortran_commit_sha": "64e5c5375",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.52.0-416-g64e5c5375.tar.gz",
+            "version": "0.52.0-416-g64e5c5375"
         }
     ],
     "release": [
