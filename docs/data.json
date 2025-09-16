@@ -20825,6 +20825,12 @@
             "lfortran_commit_sha": "ebed711d2",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.56.0-376-gebed711d2.tar.gz",
             "version": "0.56.0-376-gebed711d2"
+        },
+        {
+            "created": "2025-09-16 15:59:39.521506",
+            "lfortran_commit_sha": "94c0961c7",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.56.0-379-g94c0961c7.tar.gz",
+            "version": "0.56.0-379-g94c0961c7"
         }
     ],
     "release": [
